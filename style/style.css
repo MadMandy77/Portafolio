@@ -1,0 +1,61 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+h5 {
+  color: #212529;
+  font-weight: 300;
+}
+.card-text {
+  color: #707070;
+  font-weight: 300;
+}
+
+#cards a {color:white; text-decoration:none;}
+#cards a:visited{color: white!important;}
+
+
+footer p {
+  color: #707070;
+  font-weight: 300;
+}
+
+
+
+footer img {
+  width: 80px;
+}
+
+.nav-link:hover {
+  background-color: #e72f76;
+  padding: 4px;
+  border-radius: 30px;
+}
+
+.titulo i {
+  color: #2f88e7;
+  margin-left: 20px;
+  margin-right: 5px;
+}
+.titulo h5 {
+  display: inline-block;
+}
+.carousel-inner {
+  margin: auto;
+  position: relative;
+  width: 63%;
+  overflow: hidden;
+}
+
+.carru {
+  width: 100%;
+  background: black;
+}
+
+.formulario i {
+  margin: auto;
+  font-size: 52px;
+}
+
+footer {
+  background-color: rgb(240, 197, 238);
+}
